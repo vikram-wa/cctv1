@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 768 768" role="img" aria-labelledby="title desc">
+  <title id="title">JEPL logo</title>
+  <desc id="desc">Red and silver JE monogram on a black background</desc>
+  <rect width="768" height="768" fill="#000000"/>
+  <path fill="#bb2945" d="M128 248 220 275v172c0 44 17 66 48 66 29 0 47-20 47-59V195l103 36v277c0 74-58 119-144 119-106 0-170-74-170-167z"/>
+  <path fill="#9a989b" d="M373 196 560 121v75l-84 34v73h84v75l-84 35v79l84-34v76l-187 75z"/>
+  <path fill="#4a4a4c" d="m373 196 187-75-102-30-176 88z"/>
+  <path fill="#b9b7ba" d="m373 196 187-75v75l-187 75z" opacity=".18"/>
+</svg>
